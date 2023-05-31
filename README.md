@@ -1,8 +1,6 @@
 
 # Day of the Week Name Discord Bot
 
----
-
 ## Description
 
 Discord bot written in C# .NET 6.0 using some external packages for handling interfacing with Discord and consuming information from .env files.
